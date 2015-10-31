@@ -1,0 +1,7 @@
+Cars - 0.50$ per Hour
+Bus - 0.75$ per Hour
+Police -free
+
+1h = 10 sec
+
+1 police car takes 3 places
